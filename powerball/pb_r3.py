@@ -1,4 +1,3 @@
-244967e13736b4496fb67a68c1d52657118f6d1a5ac96cb2354ec8d267423949  pb_shadow.py
 """PB-R3 reference math. Python standard library; no network, storage or orders."""
 import hashlib
 import json
